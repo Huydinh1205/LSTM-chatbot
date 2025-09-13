@@ -1,0 +1,3 @@
+[submodule "Basic_chatbot"]
+	path = Basic_chatbot
+	url = https://github.com/Huydinh1205/Basic_chatbot.git
